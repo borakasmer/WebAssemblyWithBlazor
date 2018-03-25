@@ -1,0 +1,4 @@
+/Users/borakasmer/.nuget/packages/microsoft.aspnetcore.blazor/0.1.0/lib/netstandard2.0/Microsoft.AspNetCore.Blazor.dll
+/Users/borakasmer/.nuget/packages/microsoft.aspnetcore.blazor.browser/0.1.0/lib/netstandard2.0/Microsoft.AspNetCore.Blazor.Browser.dll
+/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.extensions.dependencyinjection/2.0.0/lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.dll
+/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.extensions.dependencyinjection.abstractions/2.0.0/lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll

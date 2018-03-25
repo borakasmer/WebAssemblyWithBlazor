@@ -1,0 +1,16 @@
+﻿@page "/counter"
+<h1>Counter</h1>
+
+<p>Current count: @currentCount : @time</p>
+
+<button @onclick(IncrementCount)>Tıkla Beni</button>
+
+@functions {
+    int currentCount = 0;
+    DateTime time=DateTime.Now;
+    void IncrementCount()
+    {
+        time=DateTime.Now;
+        currentCount++;
+    }
+}
